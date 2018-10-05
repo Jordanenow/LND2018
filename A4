@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
-<meta charset="UTF-8">
+ <head >
+     <meta charset="UTF-8"> 
 <title>Bienvenidos a la "nada"</title>
+</head> 
 <body>
     <h1> <div style="background-color:red"></div><span style="color:yellow">Arriba</span> <span style="color:yellow">España</span></h1>
 <h1>Es una pagina vacia</h1>
