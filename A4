@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<title>Bienvenidos a la "nada"</title>
+<body>
+    <h1> <div style="background-color:red"></div><span style="color:yellow">Arriba</span> <span style="color:yellow">España</span></h1>
+<h1>Es una pagina vacia</h1>
+
+<p>El profe es guay.</p>
+<a> <em> Willyrex</em> .</a>
+<a>Youtuber de exito.</a>
+<a> Gran influencer, mejor persona.</a>
+
+<p>Mi madre tiene los ojos <span style="color:blue">azules</span>.</p> 
+    
+<ul style="font-weight: bold">
+    <li>Sevilla:</li>
+  <li>Equipo europeo con mas eurocopas</li>
+  <li>Mejor que el betis</li>
+  <li>Mejor himno español y 2 del mundo.</li>
+</ul>
+
+</body>
+</html>
